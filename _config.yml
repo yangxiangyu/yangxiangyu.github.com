@@ -1,0 +1,38 @@
+# Site settings
+title:       待熹楚 寘众处
+email:       yangxiangyu@live.cn
+author:      杨翔宇
+description: ""
+baseurl:     ""
+url:         "http://blog.yangxiangyu.net"
+
+#Duoshuo short Name / 多说的shortname
+duoshuo: yangxiangyublog
+
+#Baidu analytics / 百度统计(异步的js码，注意使用异步版本的)
+baidu_analyze: 7e74decff687af19e00c31562e9c3e32
+
+# Google analytics
+google_analytics:
+
+# Optional features
+animated:           false
+show_related_posts: false
+show_post_footers:  false
+
+# Social icons
+show_social_icons: false
+github_username:
+twitter_username:
+google_plus_id:
+linkedin_username:
+bitcoin_url:
+paypal_url:
+flattr_button:
+
+# Build settings
+markdown:     kramdown
+permalink:    pretty
+paginate:     3
+sass:
+  compressed: true
